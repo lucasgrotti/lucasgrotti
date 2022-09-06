@@ -1,6 +1,6 @@
-### Olá! Aqui é o Lucas Grotti
+### Hello! My name is Lucas Grotti
 
-- 🌱 No momento estou estudando HTML5 & CSS3
+- 🌱 Cloud Security!
 
 
 
